@@ -1,7 +1,15 @@
 ## Hi there 👋
 Shiquimagno here
 <!--RECENT_ACTIVITY:start--> 
+1. ⬆️ Pushed undefined commit(s) to [shiquimagno/practicando-python](https://github.com/shiquimagno/practicando-python)<br>
+2. ⬆️ Pushed undefined commit(s) to [shiquimagno/practicando-python](https://github.com/shiquimagno/practicando-python)<br>
+3. ⬆️ Pushed undefined commit(s) to [shiquimagno/practicando-python](https://github.com/shiquimagno/practicando-python)<br>
+4. 💬 Commented on [#6](https://github.com/shiquimagno/practicando-python/pull/6#issuecomment-6511621306) in [shiquimagno/practicando-python](https://github.com/shiquimagno/practicando-python)<br>
+5. 💪 Opened PR [#6](undefined) in [shiquimagno/practicando-python](https://github.com/shiquimagno/practicando-python)<br>
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
+Last Updated: Tuesday, November 3rd, 2026, 4:04:17 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 <!--
 **shiquimagno/shiquimagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
