@@ -1,6 +1,7 @@
 ## Hi there 👋
 Shiquimagno here
-
+<!--RECENT_ACTIVITY:start--> 
+<!--RECENT_ACTIVITY:last_update--> 
 <!--
 **shiquimagno/shiquimagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
