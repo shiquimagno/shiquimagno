@@ -1,14 +1,14 @@
 ## Hi there 👋
 Shiquimagno here
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [shiquimagno/repo-para-release](https://github.com/shiquimagno/repo-para-release)<br>
-2. ✌️ Released [v0.1.0](https://github.com/shiquimagno/repo-para-release/releases/tag/v0.1.0) in [shiquimagno/repo-para-release](https://github.com/shiquimagno/repo-para-release)<br>
-3. ⭐ Starred [leesther/HUMAN-CENTERED-INNOVATION-CHALLENGE-UCSUR-CLUB](https://github.com/leesther/HUMAN-CENTERED-INNOVATION-CHALLENGE-UCSUR-CLUB)<br>
-4. ❌ Closed PR [#7](undefined) in [shiquimagno/practicando-python](https://github.com/shiquimagno/practicando-python)<br>
-5. 💪 Opened PR [#7](undefined) in [shiquimagno/practicando-python](https://github.com/shiquimagno/practicando-python)<br>
+1. ⬆️ Pushed undefined commit(s) to [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
+2. ⭐ Starred [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
+3. ❗️ Opened issue [#4](https://github.com/shiquimagno/KNN-in-peruvian-inflation/issues/4) in [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
+4. ❗️ Opened issue [#3](https://github.com/shiquimagno/KNN-in-peruvian-inflation/issues/3) in [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
+5. ❗️ Opened issue [#2](https://github.com/shiquimagno/KNN-in-peruvian-inflation/issues/2) in [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Saturday, November 7th, 2026, 5:25:19 PM
+Last Updated: Sunday, November 8th, 2026, 4:27:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--
 **shiquimagno/shiquimagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
