@@ -1,14 +1,14 @@
 ## Hi there 👋
 Shiquimagno here
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [mdalyy/microentregas](https://github.com/mdalyy/microentregas)<br>
-2. ⬆️ Pushed undefined commit(s) to [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
+1. 👍 Approved [#6](https://github.com/shiquimagno/KNN-in-peruvian-inflation/pull/6#pullrequestreview-5832064905) in [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
+2. 👍 Approved [#5](https://github.com/shiquimagno/KNN-in-peruvian-inflation/pull/5#pullrequestreview-5832034876) in [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
 3. ⬆️ Pushed undefined commit(s) to [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
-4. ⭐ Starred [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
-5. ❗️ Opened issue [#4](https://github.com/shiquimagno/KNN-in-peruvian-inflation/issues/4) in [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
+4. ⭐ Starred [mdalyy/microentregas](https://github.com/mdalyy/microentregas)<br>
+5. ⬆️ Pushed undefined commit(s) to [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Monday, November 9th, 2026, 4:39:49 AM
+Last Updated: Monday, November 9th, 2026, 9:55:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--
 **shiquimagno/shiquimagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
