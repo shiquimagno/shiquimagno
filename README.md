@@ -1,14 +1,14 @@
 ## Hi there 👋
 Shiquimagno here
 <!--RECENT_ACTIVITY:start--> 
-1. 👍 Approved [#6](https://github.com/shiquimagno/KNN-in-peruvian-inflation/pull/6#pullrequestreview-5832064905) in [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
-2. 👍 Approved [#5](https://github.com/shiquimagno/KNN-in-peruvian-inflation/pull/5#pullrequestreview-5832034876) in [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
-3. ⬆️ Pushed undefined commit(s) to [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
-4. ⭐ Starred [mdalyy/microentregas](https://github.com/mdalyy/microentregas)<br>
+1. 💬 Commented on [#6](https://github.com/shiquimagno/KNN-in-peruvian-inflation/pull/6#issuecomment-6750356450) in [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
+2. 💬 Commented on [#5](https://github.com/shiquimagno/KNN-in-peruvian-inflation/pull/5#discussion_r4517440943) in [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
+3. 👍 Approved [#6](https://github.com/shiquimagno/KNN-in-peruvian-inflation/pull/6#pullrequestreview-5832064905) in [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
+4. 👍 Approved [#5](https://github.com/shiquimagno/KNN-in-peruvian-inflation/pull/5#pullrequestreview-5832034876) in [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
 5. ⬆️ Pushed undefined commit(s) to [shiquimagno/KNN-in-peruvian-inflation](https://github.com/shiquimagno/KNN-in-peruvian-inflation)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Monday, November 9th, 2026, 9:55:34 PM
+Last Updated: Tuesday, November 10th, 2026, 5:56:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--
 **shiquimagno/shiquimagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
